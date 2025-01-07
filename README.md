@@ -5,7 +5,17 @@ A real-time multiplayer ping pong game with dynamic obstacles where players can 
 
 ## Setup Instructions
 
+
+Clone the Repository:
+```
+git clone https://github.com/nerdyEther/Ping_pong_game.git
+```
+
 ### Backend Setup
+
+
+
+
 
 1. Ensure you have Python 3 installed:
 ```
